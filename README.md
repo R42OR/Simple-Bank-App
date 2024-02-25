@@ -28,12 +28,13 @@ requirements.
 
 ## Key Features
 
-
-(a) Accept deposit from a customer and update the balance.
-(b) Display the balance.
-(c) Compute and deposit interest.
-(d) Permit withdrawal and update the balance.
-(e) Check for the minimum balance, impose penalty, necessary, and update the balance.
+<ul>
+<li> Accept deposit from a customer and update the balance.</li>
+<li> Display the balance.</li>
+<li> Compute and deposit interest.</li>
+<li> Permit withdrawal and update the balance.</li>
+<li> Check for the minimum balance, impose penalty, necessary, and update the balance.</li>
+</ul>
 
 
 
