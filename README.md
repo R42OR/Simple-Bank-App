@@ -4,13 +4,12 @@
   <br>
   <a href="https://github.com/R42OR/Java-Core"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png](https://cdnl.iconscout.com/lottie/premium/preview-watermark/online-banking-7461095-6084348.mp4" width="200"></a>
   <br>
-  Java Practice Series
+  Bank Project in C
   <br>
 </h1>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
@@ -40,7 +39,7 @@ requirements.
 
 ## Download
 
-You can [download](https://github.com/R42OR/Java-Core) the latest Runnable version for Windows, macOS and Linux.
+You can [download](https://github.com/R42OR/Simple-Bank-App) the latest Runnable version for Windows, macOS and Linux.
 
 ## My LinkedIn Profile
 
@@ -54,9 +53,6 @@ This Module requires the following packages:
 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-
-- [Java Development Kit](https://www.oracle.com/in/java/technologies/downloads/#java17)
-
 
 ## Related
 
