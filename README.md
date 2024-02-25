@@ -1,5 +1,13 @@
 # Simple-Bank-App
 
+<h1 align="center">
+  <br>
+  <a href="https://github.com/R42OR/Java-Core"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png](https://cdnl.iconscout.com/lottie/premium/preview-watermark/online-banking-7461095-6084348.mp4" width="200"></a>
+  <br>
+  Java Practice Series
+  <br>
+</h1>
+
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
@@ -21,18 +29,13 @@ requirements.
 
 ## Key Features
 
-Features:
----------
+
 (a) Accept deposit from a customer and update the balance.
 (b) Display the balance.
 (c) Compute and deposit interest.
 (d) Permit withdrawal and update the balance.
 (e) Check for the minimum balance, impose penalty, necessary, and update the balance.
 
-Disadvantages:
---------------
-(a) Can Manage only one customer activity
-(b) No database and File Handling is used, So data is temporary
 
 
 ## Download
