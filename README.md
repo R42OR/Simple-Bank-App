@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/R42OR/Java-Core"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png](https://cdnl.iconscout.com/lottie/premium/preview-watermark/online-banking-7461095-6084348.mp4" width="200"></a>
+  <a href="https://github.com/R42OR/Simple-Bank-App"><img src="https://www.kiya.ai/wp-content/uploads/2023/01/Mobile-Banking.png" width="200"></a>
   <br>
   Bank Project in C
   <br>
